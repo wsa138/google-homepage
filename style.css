@@ -1,0 +1,32 @@
+#google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10% 0 2em 0;
+}
+
+#search-form {
+    text-align: center;
+}
+
+#search {
+    width: 500px;
+    height: 3em;
+    border-color: rgb(235, 234, 234);
+}
+
+#search:focus {
+    background-color: rgb(245, 245, 245);
+}
+
+#google-search {
+padding: .5em;
+position: relative;
+top: 2em
+}
+
+#lucky-search {
+padding: .5em;
+position: relative;
+top: 2em
+}
