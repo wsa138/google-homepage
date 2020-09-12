@@ -11,7 +11,8 @@
 
 #search {
     width: 500px;
-    height: 3em;
+    height: 2em;
+    font-size: medium;
     border-color: rgb(235, 234, 234);
 }
 
@@ -19,14 +20,37 @@
     background-color: rgb(245, 245, 245);
 }
 
-#google-search {
-padding: .5em;
-position: relative;
-top: 2em
+.search-buttons {
+    padding: .5em;
+    position: relative;
+    top: 2em;
+    background-color: rgb(241, 241, 241);
+    border: 
 }
 
-#lucky-search {
-padding: .5em;
-position: relative;
-top: 2em
+.search-buttons:hover {
+    color: black;
+    border-color: rgb(179, 175, 175);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 1em
+}
+
+.nav-left {
+    float: left;
+}
+
+.nav-right {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    color: rgb(46, 46, 133);
+    text-decoration: none;
 }
