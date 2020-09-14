@@ -1,9 +1,9 @@
-This is a project where I will recreate the google search engine web page. 
+This is a project where I will recreate the google search engine web page.  
 
 Skills that are demonstrated will include:
-- Moving elements around on the page.
-- Setting fixed elements such as headers and footers on the page.
-- Centering elements on the page.
-- Using an image on the web page.
-- Using an external style sheet to style the page.
-- Use classes and ids to style elements with CSS.
+- Adding elements to the web page.
+- Positioning elements on the web page.
+- Styling elements in external style sheet.
+- Customizing pointer interactions with the web page elements.
+- Adding nav bars to the web page.
+- Added links to actual google webpages.
